@@ -85,6 +85,7 @@ export default function Login({ navigation }) {
                         style={styles.inputField}
                         // add here
                         //set keyboard type for email address
+                        _____
                         placeholder="Enter your registered email"
                         value={email}
                         onChangeText={(val) => setEmail(val)}
